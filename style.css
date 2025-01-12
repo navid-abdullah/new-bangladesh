@@ -468,9 +468,23 @@ nav {
 }
 .subscribe-form input{
     border: none;
+    font-size: 16px;
+    padding: 12px 0px;
+    padding-left: 40px;
+    width: 600px;
+    border-radius: 5px 0px 0px 5px;
 
 }
 .subscribe-form button{
     border: none;
     cursor: pointer;
+    background-color: #006A50;
+    border-radius: 0px 5px 5px 0px;
+    color: white;
+    padding: 15px 30px;
+
+}
+.footer-msg{
+    font-size: 12px;
+    color: #0e0e0ec9;
 }
