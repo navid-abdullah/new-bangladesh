@@ -324,3 +324,58 @@ nav {
 .arrow:hover {
     color: #000000;
 }
+.recent-sec {
+    margin: 0px 160px;
+    width: 100%; 
+    max-width: 1200px;
+}
+.recent-title{
+    
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+    text-align: left;
+}
+.recent-description{
+    color: #0e0e0ec2;
+    font-size: 14px;
+}
+.first-card{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 32px;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 56px;
+    gap: 32px;
+}
+.card-img1 {
+    border-radius: 10px; 
+    width:300px;
+    height: 220px;
+    
+}
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px;
+
+}
+.jajeera-img {
+    width: 100px;
+}
+.timeline {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    gap: 10px;
+}
+.card-des {
+    font-size: 14px;
+    color: #0e0e0ec1;
+    margin-top: 2px;
+}
+.card-content {
+    margin-top: 0px;
+}
