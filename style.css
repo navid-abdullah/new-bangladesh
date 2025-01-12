@@ -451,3 +451,26 @@ nav {
         0 8px 16px rgba(0, 106, 80, 0.2),
         0 12px 24px rgba(0, 106, 80, 0.1);
 }
+.newsletter {
+    margin: 80px 160px;
+    background-color: #C6E4D6;
+}
+.newsletter-content {
+    padding: 80px 250px;
+}
+.newsletter-content h3{
+    margin-bottom: 15px;
+}
+.subscribe-form {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+}
+.subscribe-form input{
+    border: none;
+
+}
+.subscribe-form button{
+    border: none;
+    cursor: pointer;
+}
